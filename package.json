@@ -1,0 +1,13 @@
+{
+  "name": "copperegg-rabbitmq-test",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "arsenic-logger": "*",
+    "minimist": "^1.1.1",
+    "moment": "^2.10.2",
+    "underscore": "^1.8.3"
+  }
+}
